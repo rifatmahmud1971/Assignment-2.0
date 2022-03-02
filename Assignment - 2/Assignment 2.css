@@ -1,0 +1,58 @@
+ 
+.header img {
+    float: Center;
+    width: 300px;
+    height: 60px;
+}
+.header{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(95, 95, 95);
+  font-size: small;
+
+}
+body {
+  font-family: 'Times New Roman', Times, serif;
+  color: #4d2323;
+
+}
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 60px;
+  margin: 20px 0;
+}
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  margin-bottom: 30px;
+  color: rgb(0, 0, 0);
+}
+h3{
+  font-family: 'Times New Roman', Times, serif;
+}
+h4{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h5{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h4{
+  font-family: 'Times New Roman', Times, serif;
+}
+.container {
+  max-width: Auto;
+  max-height: Auto;
+  padding: 60px 0;
+  margin: auto;
+  clear: both;
+} 
+.Contact{
+  float: left;
+  border: 5px; border-color: black;
+}
+
+.Location{
+  float: right;
+  border: 5px; border-color: black;
+}
